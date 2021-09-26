@@ -1,0 +1,39 @@
+9/26/2021
+OIC: Oracle Integration cloud
+OCI: Oracle cloud Infrastructure.
+ERP: Enterprise resource planning.
+
+OCPI: Oralce cloud platform integration
+1. Reinventing Integration:
+	Business complex - infrastructure
+	Saas connect on -premises
+
+2. Data Integration
+	Data Integration between APIs , cloud with on-primise.
+	Data goverence<Security>
+	Data transform
+	Data Replication
+3. Applicatoin Integration
+	publish/Counsume
+4. System/Devices Integration
+
+
+OIC - Integrate cloud and on-premises
+
+Development Tool: visual builder on browser
+
+Oracle Internat of Things platform (IoT)
+ Data transform - OIC mapper
+ Integration cloud 21.2 and 21.5
+
+9/27/2021
+
+OIC components:
+1. Process builder - Human task approval 
+2. Visual builder - BPEL
+3. Integration 
+
+
+Enter the username:99474379.user01 and password:jGo9XRLIfo to log in.
+
+
